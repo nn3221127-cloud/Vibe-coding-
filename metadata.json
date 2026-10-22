@@ -1,0 +1,6 @@
+{
+  "name": "Let's Code",
+  "description": "Autonomous AI software engineering workbench that converts natural-language requirements into structured specifications, dependency-aware plans, multi-file codebases, real sandboxed test runs, and portable project archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
